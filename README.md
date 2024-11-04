@@ -41,7 +41,7 @@ The dataset used in this dashboard includes various health indicators for heart 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/heart-failure-dashboard.git
+   git clone https://github.com/your-username/heart-failure-tableau.git
    ```
 2. Open the `.twb` file in Tableau.
 3. Explore the dashboard to analyze heart failure data.
